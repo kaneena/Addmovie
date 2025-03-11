@@ -5,6 +5,7 @@ const Addmovie = () => {
   return (
     <div>
       Add Movies here!!!
+      <br></br>
         <TextField required variant='outlined' label='Id'/>
         <br></br><br></br>
         <TextField variant='outlined' label='Movie Name'/>
