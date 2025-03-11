@@ -4,6 +4,7 @@ import React from 'react'
 const Addmovie = () => {
   return (
     <div>
+      Add Movies here!!!
         <TextField required variant='outlined' label='Id'/>
         <br></br><br></br>
         <TextField variant='outlined' label='Movie Name'/>
